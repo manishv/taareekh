@@ -1,0 +1,21 @@
+Weekly 3x3
+--------------------
+20/03/2016
+----------
+Done:
+1. Registered for AWS Free tier and worked through tutorials on creating and launching an instance.
+2. Created two IAM users with Admin priviliges: manish and saket.
+3. Create the first git repo on github.com (https://github.com/manishv/taareekh)
+4. This led to Eureka moment on the name for our site (taareekh.com)
+5. Quickly registered using amazaon S53 service, expense $12.
+
+Issues:
+1. Too much to learn and too little time.
+
+Next week:
+1. Get started with developing code for fetching data from Allahbad High Court
+2. Link Github repo to AWS CodeDeploy
+3. Learn more about AWS services, Docker
+
+Total hours: 3, Total money: $12
+
