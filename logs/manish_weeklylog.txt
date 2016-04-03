@@ -19,3 +19,9 @@ Next week:
 
 Total hours: 3, Total money: $12
 
+
+02/04/2016
+----------
+Done:
+1. Determined a simple way of accessing daily causelist. 
+2. Wrote a simple prototype webscrapping script.
